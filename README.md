@@ -3,7 +3,6 @@
   </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Coveer&show_icons=true&theme=dark" alt="Coveer" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coveer&theme=dark" alt="Coveer" />
 </p>
 
 ##
