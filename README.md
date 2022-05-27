@@ -1,10 +1,10 @@
 ### Hello, I'm cover
 
-<div align="center">
-  <a href="https://github.com/Coveer">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coveer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coveer&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Coveer&show_icons=true&theme=dark" alt="Coveer" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coveer&theme=dark" alt="Coveer" />
+</p>
 
 ##
 
