@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm cover
 
 <p align="center">
   <a href="https://discord.com/users/724229359438921748">
